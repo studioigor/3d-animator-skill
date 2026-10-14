@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# the animation library and per-project outputs never live in the skill
+AnimationLibrary/
+venv/
